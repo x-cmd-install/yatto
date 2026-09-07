@@ -5,7 +5,7 @@ about:
   head: 78f33c2
   archived: false
   latestVersion: "v1.4.0"
-  collectedAt: 2026-09-07T04:33:13Z
+  collectedAt: 2026-09-07T19:57:36Z
 timeline:
   created: 2025-07-07
   lastCommit: 2026-05-14
@@ -80,7 +80,7 @@ total:
   commit: 424
 ---
 path: /home/runner/.x-repo/github.com/handlebargh/yatto
-collectedAt: 2026-09-07T04:33:14Z
+collectedAt: 2026-09-07T19:57:37Z
 loc:
   Go:
     code: 6112
@@ -106,7 +106,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:33:15+00:00
+  collectedAt: 2026-09-07T19:57:38+00:00
   platform:
     darwin/arm64:
       name:  yatto_1.4.0_darwin_arm64.tar.gz
