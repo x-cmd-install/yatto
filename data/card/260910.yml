@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.4.0"
   latestRelease: "v1.4.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:38:58Z
+  collectedAt: 2026-09-10T16:12:15Z
 timeline:
   created: 2025-07-07
   lastCommit: 2026-05-14
@@ -84,7 +84,7 @@ total:
   commit: 424
 ---
 path: /home/runner/.x-repo/github.com/handlebargh/yatto
-collectedAt: 2026-09-10T04:38:59Z
+collectedAt: 2026-09-10T16:12:16Z
 loc:
   Go:
     code: 6112
