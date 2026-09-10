@@ -12,6 +12,16 @@ Interactive version-controlled todo-list for the command-line
 x install yatto
 ```
 
+## Code insight
+
+Total: **6,172** lines of code across **48** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 6,112 | 1,566 | 1,215 | 42 |
+| Toml | 60 | 39 | 21 | 2 |
+| Markdown | 0 | 381 | 247 | 4 |
+
 ## Source
 
 - **Upstream**: <https://github.com/handlebargh/yatto>
@@ -22,6 +32,25 @@ x install yatto
 - **Latest**: `v1.4.0` (2026-05-12)
 - **Last commit**: 2026-05-14
 - **Assets in release**: 16
+
+## Popularity
+
+- **Stars**: 98 · **Forks**: 5 · **Open issues**: 25 · **Contributors**: 4
+
+## Totals (cumulative)
+
+- **Releases**: 58 · **Merged PRs**: 74 · **Open PRs**: 3 · **Closed issues**: 25 · **Open issues**: 0 · **Commits**: 424
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 5 | 14 | 3 | 0 | 0 | 20 |
+| 360d | 2025-09-15 | 31 | 55 | 3 | 10 | 0 | 220 |
+| last720d | 2024-09-20 | 58 | 74 | 3 | 25 | 0 | 424 |
 
 ## Release assets
 
@@ -44,31 +73,13 @@ x install yatto
 | [yatto_1.4.0_x86_64.apk](https://github.com/handlebargh/yatto/releases/download/v1.4.0/yatto_1.4.0_x86_64.apk) | 6.1 MiB | `other` |
 | [yatto_signing_pubkey.gpg](https://github.com/handlebargh/yatto/releases/download/v1.4.0/yatto_signing_pubkey.gpg) | 3.2 KiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 98 · **Forks**: 5 · **Open issues**: 25 · **Contributors**: 4
+Reported by **4** distros on [repology.org](https://repology.org/project/yatto). **2** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 58 · **Merged PRs**: 74 · **Open PRs**: 3 · **Closed issues**: 25 · **Open issues**: 0 · **Commits**: 424
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 31 | 55 | 3 | 10 | 0 | 220 |
-
-## Code size
-
-Total: **6,172** lines of code across **48** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 6,112 | 1,566 | 1,215 | 42 |
-| Toml | 60 | 39 | 21 | 2 |
-| Markdown | 0 | 381 | 247 | 4 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.4.0` | ✅ latest |
 
 ## Improve this data
 
@@ -79,4 +90,4 @@ Install metadata for yatto lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:12:29Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:15:09Z._
