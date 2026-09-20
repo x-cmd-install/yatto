@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5876486,
       "digest": "sha256:67c8d1f88c530623ffb0ab85f35dcb2575e3e1e9709c8945020b6d3442721006",
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2026-05-12T17:21:50Z",
       "updated_at": "2026-05-12T17:21:52Z",
       "browser_download_url": "https://github.com/handlebargh/yatto/releases/download/v1.4.0/yatto_1.4.0_darwin_arm64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 6171876,
       "digest": "sha256:e513c50456322d8b1c155021d1687789dc13ede267f84d0b5092d7939fb78fe6",
-      "download_count": 97,
+      "download_count": 105,
       "created_at": "2026-05-12T17:21:50Z",
       "updated_at": "2026-05-12T17:21:51Z",
       "browser_download_url": "https://github.com/handlebargh/yatto/releases/download/v1.4.0/yatto_1.4.0_linux_amd64.tar.gz"
