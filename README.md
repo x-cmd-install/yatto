@@ -45,12 +45,12 @@ Total: **6,172** lines of code across **48** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-07 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-09 | 3 | 5 | 3 | 0 | 0 | 11 |
-| 360d | 2025-11-10 | 17 | 39 | 3 | 2 | 0 | 98 |
-| last720d | 2024-11-15 | 58 | 74 | 3 | 25 | 0 | 424 |
+| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-08 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-05-10 | 3 | 5 | 3 | 0 | 0 | 11 |
+| 360d | 2025-11-11 | 17 | 38 | 3 | 2 | 0 | 98 |
+| last720d | 2024-11-16 | 58 | 74 | 3 | 25 | 0 | 424 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for yatto lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:42:25Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:39:19Z._
