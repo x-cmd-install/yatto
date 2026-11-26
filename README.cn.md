@@ -45,12 +45,12 @@ x install yatto
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 14 | 33 | 3 | 2 | 0 | 80 |
-| last720d | 2024-12-05 | 58 | 74 | 3 | 25 | 0 | 424 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 14 | 33 | 3 | 2 | 0 | 0 |
+| last720d | 2024-12-06 | 58 | 74 | 3 | 25 | 0 | 424 |
 
 ## Release 资产
 
@@ -73,14 +73,6 @@ x install yatto
 | [yatto_1.4.0_x86_64.apk](https://github.com/handlebargh/yatto/releases/download/v1.4.0/yatto_1.4.0_x86_64.apk) | 6.1 MiB | `other` |
 | [yatto_signing_pubkey.gpg](https://github.com/handlebargh/yatto/releases/download/v1.4.0/yatto_signing_pubkey.gpg) | 3.2 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/yatto) 上共有 **4** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `1.4.0` | ✅ latest |
-
 ## 改进这些数据
 
 yatto 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `yatto` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -90,4 +82,4 @@ yatto 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:24:40Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T08:21:35Z._
