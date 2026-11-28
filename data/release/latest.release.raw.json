@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6164801,
       "digest": "sha256:a65688618551b8772b6e124c6446ccfb4a5be5900f58f23059156daecb248466",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-05-12T17:21:53Z",
       "updated_at": "2026-05-12T17:21:54Z",
       "browser_download_url": "https://github.com/handlebargh/yatto/releases/download/v1.4.0/yatto-1.4.0-1.x86_64.rpm"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 6171876,
       "digest": "sha256:e513c50456322d8b1c155021d1687789dc13ede267f84d0b5092d7939fb78fe6",
-      "download_count": 220,
+      "download_count": 221,
       "created_at": "2026-05-12T17:21:50Z",
       "updated_at": "2026-05-12T17:21:51Z",
       "browser_download_url": "https://github.com/handlebargh/yatto/releases/download/v1.4.0/yatto_1.4.0_linux_amd64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 6432439,
       "digest": "sha256:115b7edffa35b571f913c99628208205e3f0bfa6b7e05806a440dfee1676c681",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-05-12T17:21:52Z",
       "updated_at": "2026-05-12T17:21:53Z",
       "browser_download_url": "https://github.com/handlebargh/yatto/releases/download/v1.4.0/yatto_1.4.0_x86_64.apk"
